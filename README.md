@@ -37,6 +37,8 @@ Contributors are very welcome. Community additions are encouraged as long as con
 
 AI-assisted writing is welcome, but it must be fact-checked and edited for clarity. Please avoid low-signal AI slop: submissions should be concise, digestible, and genuinely useful for the community.
 
+If you are contributing with an AI agent, use `ALTER.md` as the guideline source of truth before making changes.
+
 1. Pick the right folder:
    - `how-to/` for direct "How do I do X?"
    - `guides/` for complete tutorials
