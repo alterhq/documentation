@@ -4,8 +4,6 @@
 
 This repository contains a community Skill for Alter documentation support.
 
-The goal is progressive disclosure:
-
 - Keep `SKILL.md` short and activation-focused.
 - Store reusable reference content in `references/`.
 - Store practical content in `how-to/`, `guides/`, and `use-cases/`.
@@ -53,6 +51,16 @@ AI-assisted writing is welcome, but it must be fact-checked and edited for clari
 4. Reference assets with `https://alterhq.com/assets-doc/images/...` URLs.
 5. You can include relevant external resources such as social posts, YouTube videos, and personal blog articles when they add clear value.
 6. Run checks before opening a PR.
+
+### Commit Convention
+
+Use [Conventional Commits](https://www.conventionalcommits.org/) for all commit messages.
+
+Examples:
+
+- `docs(guides): add url callbacks guide`
+- `chore(ci): validate assets-doc mapping on pull requests`
+- `fix(references): correct pricing faq fair-use wording`
 
 ## Scripts
 
